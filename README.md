@@ -14,7 +14,7 @@
 
 - 😄 My Pronouns are **She/her**
 
-- 📄 Know about my experiences [https://linkedin.com/mariajulialmarques/](https://linkedin.com/mariajulialmarques/)
+- 📄 Know about my experiences [https://linkedin.com/marialmarques/](https://linkedin.com/marialmarques/)
 
 - ⚡ Fun fact **I'm obsessed with My Chemical Romance and Sonic the Hedgehog**
 
