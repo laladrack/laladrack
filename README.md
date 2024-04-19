@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Landing Page - The Odin Project](https://github.com/laladrack/FoundationsLandingPage-Odin)
 
-- 🌱 I’m currently learning **JavaScript, Pytho, C#, TypeScript**
+- 🌱 I’m currently learning **JavaScript, Python, C#, TypeScript**
 
 - 📝 I regularly write articles on [https://spacehey.com/majuji](https://spacehey.com/majuji)
 
 - 📫 How to reach me **mj.lourenco.marques@gmail.com**
 
-- 😄 My Pronouns are **She/her**
+- 😄 My Pronouns are **she/her**
 
 - 📄 Know about my experiences [https://linkedin.com/marialmarques/](https://linkedin.com/marialmarques/)
 
