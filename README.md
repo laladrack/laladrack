@@ -6,7 +6,7 @@
 
 <h3 align="left">About me: </h3>
 
-- ✨ I’m currently working on [Landing Page - The Odin Project](https://github.com/laladrack/FoundationsLandingPage-Odin)
+- ✨ I’m currently working on [my .NET Developer certification by DIO](https://dio.me)
 
 - 📚 I’m currently learning **JavaScript, Python, C#, .Net**
 
