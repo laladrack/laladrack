@@ -6,9 +6,9 @@
 
 <h3 align="left">About me: </h3>
 
-- ✨ I’m currently working on [my .NET Developer certification by DIO](https://dio.me)
+- ✨ I’m currently working on [my Python Backend Developer certification by DIO](https://dio.me)
 
-- 📚 I’m currently learning **JavaScript, Python, C#, .Net**
+- 📚 I’m currently learning **JavaScript, Python, C#**
 
 - 📝 I regularly write on [https://spacehey.com/majuji](https://spacehey.com/majuji)
 
