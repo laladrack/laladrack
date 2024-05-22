@@ -14,6 +14,8 @@
 
 - 📫 My e-mail is **mj.lourenco.marques@gmail.com**
 
+- 🎃 Here is my [portfolio](https://laladrack.github.io/portfolio/) (WIP)
+
 - 💻 My LinkedIn is [https://linkedin.com/in/marialmarques/](https://linkedin.com/in/marialmarques/)
 
 - ♟ My Pronouns are **she/her**
