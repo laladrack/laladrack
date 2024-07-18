@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Maria Marques! 🧛‍♀️</h1>
 <h3 align="center">A 19 year old web developer wanna-be from Brazil.</h3>
 
-<p align="center">The first time I've ever booted a computer I was 11 years old, and I have been in love with coding and hardware ever since.</p>
+<p align="center">The first time I've ever booted a computer I was 11 years old. I've been in love with coding and hardware ever since.</p>
 
 <h3 align="left">About me: </h3>
 
