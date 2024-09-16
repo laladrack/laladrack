@@ -6,7 +6,7 @@
 
 <h3 align="left">About me: </h3>
 
-- ✨ I’m currently working on [my Python Backend Developer certification by DIO](https://dio.me)
+- ✨ I’m currently working on [my portfolio](https://laladrack.github.io/portfolio/)
 
 - 📚 I’m currently learning **JavaScript, C#**
 
