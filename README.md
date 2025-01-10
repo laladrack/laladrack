@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Maria Marques! 🦇</h1>
-<h3 align="center">A 19 year old web developer from Brazil.</h3>
+<h3 align="center">A 19 year old automation developer from Brazil.</h3>
 
 <p align="center">The first time I've ever booted a computer I was 11 years old. I've been in love with coding and hardware ever since.</p>
 
@@ -8,11 +8,9 @@
 
 - ✨ I’m currently working on [my portfolio](https://laladrack.github.io/portfolio/)
 
-- 📚 I’m currently learning **JavaScript, C#**
-
 - 📝 I regularly write on [https://spacehey.com/majuji](https://spacehey.com/majuji)
 
-- 📫 My e-mail is **mj.lourenco.marques@gmail.com**
+- 📫 My e-mail is **maju.lourenco.marques@gmail.com**
 
 - 🎃 Here is my [portfolio](https://laladrack.github.io/portfolio/) (WIP)
 
@@ -29,7 +27,7 @@
 <h3 align="left">Stats:</h3>
 
 ![MJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=laladrack&theme=monokai&show_icons=true='#center')
- 
+[![roadmap.sh](https://roadmap.sh/card/tall/64a7f1f51dadb37b72b5fbc1?variant=dark&roadmaps=devops%2Cbackend%2Ccyber-security)](https://roadmap.sh)
 
 
 
