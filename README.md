@@ -27,7 +27,6 @@
 <h3 align="left">Stats:</h3>
 
 ![MJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=laladrack&theme=monokai&show_icons=true='#center')
-[![roadmap.sh](https://roadmap.sh/card/tall/64a7f1f51dadb37b72b5fbc1?variant=dark&roadmaps=devops%2Cbackend%2Ccyber-security)](https://roadmap.sh)
 
 
 
