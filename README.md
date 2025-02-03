@@ -26,7 +26,7 @@
 
 <h3 align="left">Stats:</h3>
 ![laladrack's Stats](https://github-readme-stats.vercel.app/api?username=laladrack&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
-![laladrack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laladrack&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
-![laladrack's Streak](https://github-readme-streak-stats.herokuapp.com/?user=laladrack&theme=synthwave&hide_border=false)
+ ![laladrack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laladrack&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+ ![laladrack's Streak](https://github-readme-streak-stats.herokuapp.com/?user=laladrack&theme=synthwave&hide_border=false)
 
 
