@@ -33,9 +33,3 @@
   ![laladrack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laladrack&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
 
 </p>
-
-<p align="right">
-
-![laladrack's Streak](https://github-readme-streak-stats.herokuapp.com/?user=laladrack&theme=synthwave&hide_border=false)
-
-</p>
