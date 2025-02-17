@@ -4,6 +4,14 @@
 
 <p align="center">The first time I've ever booted a computer I was 11 years old. I've been in love with coding and hardware ever since.</p>
 
+
+<p align ="center"><img src="https://github-readme-stats.vercel.app/api?username=laladrack&theme=synthwave&show_icons=true&hide_border=false&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laladrack&theme=synthwave&show_icons=true&hide_border=false&layout=compact"></p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 <h3 align="left">About me: </h3>
 
 - ✨ I’m currently working on [my portfolio](https://laladrack.github.io/portfolio/)
@@ -20,16 +28,4 @@
 
 - 🎵 Fun fact: **I'm obsessed with My Chemical Romance and Sonic the Hedgehog** 
 
-<h3 align="left">Languages and Tools:</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-<h3 align="left">Stats:</h3>
-
-![laladrack's Stats](https://github-readme-stats.vercel.app/api?username=laladrack&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
-
-<p align="left">
-
-  ![laladrack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laladrack&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
-
-</p>
